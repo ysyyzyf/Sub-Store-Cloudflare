@@ -43,13 +43,6 @@
                 "binding": "REFRESH_QUEUE",
                 "queue": "sub-store-refresh"
             }
-        ],
-        "consumers": [
-            {
-                "queue": "sub-store-refresh",
-                "max_batch_size": 10,
-                "max_batch_timeout": 30
-            }
         ]
     },
     "analytics_engine_datasets": [
