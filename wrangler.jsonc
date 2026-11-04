@@ -14,7 +14,7 @@
         {
             "binding": "JWT_SECRET_STORE",
             "store_id": "3ae858952e0744bfb04d0aff2a6c81df",
-            "secret_name": "JWT_SECRET"
+            "secret_name": "clsyyy815"
         }
     ],
     "d1_databases": [
