@@ -13,22 +13,22 @@
     "secrets_store_secrets": [
         {
             "binding": "JWT_SECRET_STORE",
-            "store_id": "eda45cbf8bd84149b51526d9fc2d66f3",
+            "store_id": "3ae858952e0744bfb04d0aff2a6c81df",
             "secret_name": "JWT_SECRET"
         }
     ],
     "d1_databases": [
         {
             "binding": "SUB_STORE_DB",
-            "database_name": "sub-store-cloudflare-db",
-            "database_id": "67cde9f2-8a13-43c5-9f9f-a068f44540ab",
+            "database_name": "sub-store-cf-d1",
+            "database_id": "ed905a24-c262-40d9-9afa-3bd7ec67d4ab",
             "migrations_dir": "migrations"
         }
     ],
     "kv_namespaces": [
         {
             "binding": "SUB_STORE_CACHE",
-            "id": "da911c88a4bc452a9d6dd3d7e02d80f7"
+            "id": "8105b5e40da94fc6a73a5adae00a4535"
         }
     ],
     "r2_buckets": [
