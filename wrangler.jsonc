@@ -14,7 +14,7 @@
         {
             "binding": "JWT_SECRET_STORE",
             "store_id": "3ae858952e0744bfb04d0aff2a6c81df",
-            "secret_name": "clsyyy815"
+            "secret_name": "sub-store-cf-ss"
         }
     ],
     "d1_databases": [
