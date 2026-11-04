@@ -3,12 +3,6 @@
     "name": "sub-store",
     "main": "worker-rs/build/worker/shim.mjs",
     "compatibility_date": "2026-05-07",
-    "migrations": [
-        {
-            "tag": "delete-indexdo-20261105",
-            "deleted_classes": ["IndexDO"]
-        }
-    ],
     "build": {
         "command": "bash scripts/build-worker-cf.sh"
     },
