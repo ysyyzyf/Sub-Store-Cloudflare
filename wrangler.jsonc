@@ -54,8 +54,8 @@
     },
     "analytics_engine_datasets": [
         {
-            "binding": "ANALYTICS",
-            "dataset": "sub_store_metrics"
+            "binding": "sub-store-cf-ana-eng",
+            "dataset": "sub-store-cf"
         }
     ],
     "triggers": {
